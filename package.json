@@ -93,7 +93,7 @@
     "@nx/eslint": "20.1.4",
     "@nx/eslint-plugin": "20.1.4",
     "@nx/jest": "20.1.4",
-    "@nx/js": "20.1.4",
+    "@nx/js": "20.2.2",
     "@nx/node": "20.1.4",
     "@nx/playwright": "20.1.4",
     "@nx/react": "20.1.4",

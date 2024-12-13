@@ -104,7 +104,7 @@
     "@parcel/watcher": "^2.4.1",
     "@playwright/test": "^1.49.0",
     "@remix-run/dev": "2.15.0",
-    "@remix-run/eslint-config": "2.15.0",
+    "@remix-run/eslint-config": "2.15.1",
     "@remix-run/testing": "^2.15.0",
     "@sentry/utils": "^8.42.0",
     "@spotlightjs/overlay": "^2.8.0",
